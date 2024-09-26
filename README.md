@@ -8,7 +8,7 @@
 
 ### 👉 You can contact met by this QR-Code 
 
-<div algin='center'>
+<div align='center'>
     <img src='https://file-origin.devkh.asia/api/v1/files/view/b7d2cb3a-fcf7-4e91-bd4e-8a5ebf142fb6.jpg' alt='QR-Code'>
 </div>
 
