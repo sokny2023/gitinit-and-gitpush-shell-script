@@ -4,7 +4,7 @@
 github_username="sokny2023"
 
 # GitHub token (replace with your own token)
-github_token="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"
+github_token="your_github_token"
 
 # Prompt for the repository name (without new line)
 echo -n "Enter the name of the new repository: "
